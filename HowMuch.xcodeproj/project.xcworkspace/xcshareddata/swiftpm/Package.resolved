@@ -1,0 +1,60 @@
+{
+  "originHash" : "6ca3876d5eb0a454b60238ed87a73edce60e271b64c6a91e3e10c6b9939eee46",
+  "pins" : [
+    {
+      "identity" : "iconoir-swift?tab=readme-ov-file",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/iconoir-icons/iconoir-swift?tab=readme-ov-file",
+      "state" : {
+        "branch" : "main",
+        "revision" : "66391f61281c4c203ae2003ebf66627dc849f233"
+      }
+    },
+    {
+      "identity" : "logoutloud",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Aeastr/LogOutLoud.git",
+      "state" : {
+        "revision" : "8b1fb61045d78bd674e4061805e5e6cc69d06950",
+        "version" : "2.1.2"
+      }
+    },
+    {
+      "identity" : "portal",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Aeastr/Portal",
+      "state" : {
+        "revision" : "cf78368f0afefc54e5d68327e353e801a1af35cb",
+        "version" : "4.0.0"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "36e79ba485e9bb4d3cd4e3318908866dac5e7b51",
+        "version" : "5.21.5"
+      }
+    },
+    {
+      "identity" : "sdwebimageswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImageSwiftUI.git",
+      "state" : {
+        "revision" : "0e331457ca9af2f0b08bcaa138a91ffb907b004f",
+        "version" : "3.1.4"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log.git",
+      "state" : {
+        "revision" : "bc386b95f2a16ccd0150a8235e7c69eab2b866ca",
+        "version" : "1.8.0"
+      }
+    }
+  ],
+  "version" : 3
+}

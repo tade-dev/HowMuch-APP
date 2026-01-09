@@ -6,14 +6,18 @@
 //
 
 import SwiftUI
+import Iconoir
 
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
+            
+            Iconoir.user.asImage
+                .foregroundStyle(.black)
+            
             Text("Hello, world!")
+                .boldFont(size: 30)
+            
         }
         .padding()
     }
